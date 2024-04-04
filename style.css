@@ -1,0 +1,132 @@
+body{
+   background-color: #c2edda;
+    background-size: cover;
+    height: 125vh;
+    margin-top: 80px;
+    padding: 30px;
+}
+
+header {
+    background-color: white;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    box-shadow: 0 0 25px 0 black;
+    
+}
+header *{
+    display: inline;
+}
+header li{
+    margin: 20px;
+}
+
+header li a{
+    color: black;
+    text-decoration: none;
+}
+
+a {
+    outline-color: transparent;
+  }
+  
+  a:link {
+    color: #6900ff;
+  }
+  
+  a:visited {
+    color: #a5c300;
+  }
+  
+  a:focus {
+    text-decoration: none;
+    background: #bae498;
+  }
+  
+  a:hover {
+    text-decoration: none;
+    background: #cdfeaa;
+  }
+  
+  a:active {
+    background: #6900ff;
+    color: #cdfeaa;
+  }
+
+header h1{
+    height: 80px;
+    margin-left: 40px;
+    margin-top: 60px;
+    color: #7B3F00;
+    text-shadow:  1px 1px black;
+}
+
+footer {
+    background-color:whitesmoke;
+    height: 100px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+   
+}
+
+
+
+#about{
+  box-shadow:  0 0 25px 0 black;
+  padding-top: 70px;
+  padding-bottom: 70px;
+  margin-left: 30px;
+  margin-right: 30px;
+  text-align: center;
+  background-color: #f1f1f1;
+  background-size: contain;
+  background-image: url(https://cdn.pixabay.com/photo/2022/05/31/00/56/sky-7232494_1280.jpg);
+}
+
+#mylifestory{
+    padding-top: 70px;
+    padding-bottom: 70px;
+    margin-left: 30px;
+    margin-right: 30px;
+    text-align: center;
+    box-shadow:  0 0 25px 0 black;
+    background-size: contain;
+    background-image: url(https://cdn.pixabay.com/photo/2022/05/31/00/56/sky-7232494_1280.jpg);
+}
+#hobbies{
+    padding-top: 70px;
+    padding-bottom: 70px;
+    margin-left: 30px;
+    margin-right: 30px;
+    text-align: center;
+    box-shadow:  0 0 25px 0 black;
+    background-size: contain;
+    background-image: url(https://cdn.pixabay.com/photo/2022/05/31/00/56/sky-7232494_1280.jpg);
+}
+
+#favorites{
+    padding-top: 70px;
+    padding-bottom: 70px;
+    margin-left: 30px;
+    margin-right: 30px;
+    text-align: center;
+    box-shadow:  0 0 25px 0 black;
+    background-size: contain;
+    background-image: url(https://cdn.pixabay.com/photo/2022/05/31/00/56/sky-7232494_1280.jpg);
+}
+
+#friends{
+    padding-top: 70px;
+    padding-bottom: 70px;
+    margin-left: 30px;
+    margin-right: 30px;
+    text-align: center;
+    box-shadow:  0 0 25px 0 black;
+    background-size: contain;
+    background-image: url(https://cdn.pixabay.com/photo/2022/05/31/00/56/sky-7232494_1280.jpg);
+}
