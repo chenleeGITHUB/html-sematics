@@ -22,7 +22,8 @@ header *{
     display: inline;
 }
 header li{
-    margin: 20px;
+  margin: 20px;
+  
 }
 
 header li a{
@@ -35,7 +36,7 @@ a {
   }
   
   a:link {
-    color: #3b3542;
+    color: #190f25;
   }
   
   a:visited {
@@ -66,12 +67,10 @@ header h1{
 }
 
 footer {
-    background-color:whitesmoke;
-    height: 100px;
-    padding-left: 20px;
-    padding-top: 20px;
-    padding-bottom: 20px;
-   
+  clear:both;
+  margin-top: 1em;
+  border-top: 2px solid violet;
+  padding-bottom: 20px;
 }
 
 
@@ -141,5 +140,3 @@ img {
   
   
 }
-
-
