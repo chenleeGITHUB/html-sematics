@@ -35,7 +35,7 @@ a {
   }
   
   a:link {
-    color: #6900ff;
+    color: #3b3542;
   }
   
   a:visited {
@@ -130,4 +130,16 @@ footer {
     background-size: contain;
     background-image: url(https://cdn.pixabay.com/photo/2022/05/31/00/56/sky-7232494_1280.jpg);
 }
+
+img {
+  border: 1px solid #ddd;
+  border-radius: 50px;
+  border-color: violet;
+  padding: 10px;
+  width: 200px;
+  image-resolution: from-image;
+  
+  
+}
+
 
