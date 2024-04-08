@@ -171,5 +171,23 @@ img {
 
 
 
+@media screen and (max-width: 768px) {
+  header {
+    height: 60px; 
+  }
+  
+  header h1 {
+    margin-top: 20px; 
+  }
+  
+  header .headerimage {
+    padding: 30px; 
+    height: 60px; 
+    margin-left: 20px; 
+  }
+}
+
+
+
 
 
